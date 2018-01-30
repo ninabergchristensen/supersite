@@ -8,7 +8,21 @@ form * {
 	display: block;
 }
 
+nav {
+	min-height: 50px;
+	margin: 30px auto;
+}
+
 nav ul li {
 	display: block;
 	float: left;
+}
+
+nav * a {
+	padding: 10px 30px;
+}
+
+nav * a:hover {
+	background: orange;
+	color: black;
 }
