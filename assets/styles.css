@@ -1,3 +1,9 @@
 body {
 	background: firebrick;
+	max-width: 960px;
+	margin: 50px auto;
+}
+
+form * {
+	display: block;
 }
