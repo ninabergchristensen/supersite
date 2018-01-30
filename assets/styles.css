@@ -7,3 +7,8 @@ body {
 form * {
 	display: block;
 }
+
+nav ul li {
+	display: block;
+	float: left;
+}
